@@ -1,4 +1,5 @@
 export default {
+    base: '/OnixClientWeb/',
     title: 'Onix Client',
     themeConfig: {
         logo: '/Logo.png',
