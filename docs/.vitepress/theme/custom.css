@@ -1,0 +1,12 @@
+/* .vitepress/theme/custom.css */
+:root {
+    --vp-c-brand: #646cff;
+    --vp-button-brand-bg: #646cff;
+    --vp-c-brand-light: #646cff;
+    --vp-c-brand-dark: #646cff;
+}
+
+img, svg, video, canvas, audio, iframe, embed, object {
+    display: inline; 
+}
+  
